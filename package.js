@@ -2,7 +2,8 @@ Package.describe({
     name: 'slayerokk:jquery',
     version: '0.0.1',
     summary: 'Includes JQuery 3.2.1 in Meteor Project',
-    git: 'https://github.com/slayerokk/meteor-jquery321.git'
+    git: 'https://github.com/slayerokk/meteor-jquery321.git',
+    documentation: 'README.md'
 });
 
 Package.onUse(function(api) {
